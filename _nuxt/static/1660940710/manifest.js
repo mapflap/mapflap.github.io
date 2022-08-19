@@ -1,1 +1,0 @@
-__NUXT_JSONP__("manifest.js", {routes:["\u002F","\u002Fabout-mapflap","\u002Fgeospatial","\u002Fmachine-learning","\u002Fjust-because","\u002Fgeospatial\u002F3","\u002Fgeospatial\u002F2","\u002Fjust-because\u002F4","\u002Fgeospatial\u002F1"]})
