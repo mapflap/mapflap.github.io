@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/machine-learning", {data:[{works:[],tags:["ML","AI","Data"]}],fetch:{},mutations:void 0});
